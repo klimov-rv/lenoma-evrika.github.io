@@ -2106,6 +2106,9 @@ a.all-prod {
     left: -55px;
 }
 .brands-slider .owl-prev {
+    right: -5px;
+}
+.brands-slider .owl-prev {
     left: -145px;
 }
 .brand-slider .owl-item,
