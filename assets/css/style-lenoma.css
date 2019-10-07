@@ -2253,14 +2253,15 @@ a.all-prod {
     text-align: left;
 
 }
-.footer-stl-2 .social-icon a{
+.footer-stl-2 .social-icon a {
     display: inline-block;
     height: 50px;
     width: 50px;
     background-color: white;
     border-radius: 100px;
-    padding: 13px;
     font-size: 25px;
+    text-align: center;
+    padding: 13px 0;
 }
 
 .footer-list {
